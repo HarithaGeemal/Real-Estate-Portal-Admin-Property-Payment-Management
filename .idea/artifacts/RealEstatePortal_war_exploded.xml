@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RealEstatePortal:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/RealEstatePortal_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RealEstatePortal" />
+          <element id="module-output" name="Real-Estate-Portal-Admin-Property-Payment-Management" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.jboss.weld.se:weld-se-core:6.0.0.Beta4" />
+          <element id="library" level="project" name="Maven: org.jboss.weld.environment:weld-environment-common:6.0.0.Beta4" />
+          <element id="library" level="project" name="Maven: org.jboss.weld:weld-core-impl:6.0.0.Beta4" />
+          <element id="library" level="project" name="Maven: org.jboss.weld:weld-api:6.0.Beta5" />
+          <element id="library" level="project" name="Maven: jakarta.enterprise:jakarta.enterprise.cdi-el-api:4.1.0" />
+          <element id="library" level="project" name="Maven: org.jboss.weld:weld-spi:6.0.Beta5" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.6.0.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.weld:weld-lite-extension-translator:6.0.0.Beta4" />
+          <element id="library" level="project" name="Maven: jakarta.interceptor:jakarta.interceptor-api:2.2.0" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging-processor:2.2.1.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging-annotations:2.2.1.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.jdeparser:jdeparser:2.0.3.Final" />
+          <element id="library" level="project" name="Maven: jakarta.enterprise:jakarta.enterprise.cdi-api:4.1.0" />
+          <element id="library" level="project" name="Maven: jakarta.enterprise:jakarta.enterprise.lang-model:4.1.0" />
+          <element id="library" level="project" name="Maven: jakarta.annotation:jakarta.annotation-api:3.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.inject:jakarta.inject-api:2.0.1" />
+          <element id="library" level="project" name="Maven: org.jboss.classfilewriter:jboss-classfilewriter:1.3.1.Final" />
+          <element id="library" level="project" name="Maven: jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:3.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.el:jakarta.el-api:5.0.0" />
+          <element id="library" level="project" name="Maven: org.glassfish.web:jakarta.servlet.jsp.jstl:3.0.1" />
+          <element id="library" level="project" name="Maven: jakarta.servlet:jakarta.servlet-api:6.1.0" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="RealEstatePortal/web/Web" />
+      <element id="javaee-facet-resources" facet="RealEstatePortal/web/Web2" />
+      <element id="javaee-facet-resources" facet="Real-Estate-Portal-Admin-Property-Payment-Management/web/Web" />
+    </root>
+  </artifact>
+</component>
