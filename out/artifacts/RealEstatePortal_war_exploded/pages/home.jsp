@@ -7,11 +7,12 @@ g<%--
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="jakarta.tags.core" prefix="c" %>
+<%@include file="/includes/header.jsp"%>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <!-- Header -->
-    <%@include file="/includes/header.jsp"%>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Homescape Haven - Find Your Dream Property</title>
